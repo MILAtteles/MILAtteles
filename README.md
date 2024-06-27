@@ -12,4 +12,6 @@ meu nome é Camila Teles
 
 @CamilaTeles 
 
-![](https://tenor.com/pt-BR/view/luna-cat-crunchy-cat-glasses-cat-luna-classes-cat-gif-12732289841207803174)
+![](<img src="https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif" alt="Rosy00 GIF"/>![image](https://github.com/MILAtteles/MILAtteles/assets/172675939/2dd0a670-6c0e-458b-8dbe-8d9e72f346cb0)
+
+
